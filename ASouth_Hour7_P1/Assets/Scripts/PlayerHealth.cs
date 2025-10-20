@@ -34,6 +34,8 @@ public class PlayerHealth : MonoBehaviour
 
         health -= poisonDamage;
         Debug.Log(health);
+
+        Debug.Log("Player has been unalived!");
     }
 
     // Update is called once per frame
