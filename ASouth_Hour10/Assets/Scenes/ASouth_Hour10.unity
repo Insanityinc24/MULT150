@@ -1473,7 +1473,7 @@ MonoBehaviour:
   audioSource: {fileID: 815531700}
   footstepSounds:
   - {fileID: 8300000, guid: a33f2defd7311584cb3e48928876a90e, type: 3}
-  footstepInterval: 0.5
+  footstepInterval: 5
 --- !u!1 &836773175
 GameObject:
   m_ObjectHideFlags: 0
